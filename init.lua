@@ -1,0 +1,7 @@
+require('users.levi.keymap')
+require('users.levi.settings')
+require('users.levi.plugins')
+require('users.levi.comp')
+require('users.levi.colorscheme')
+require('users.levi.lsp')
+--require('users.levi.autopairs')
